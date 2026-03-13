@@ -1,119 +1,39 @@
 # 👨🏻‍💻 Thales Copola
 
-🚀 **Desenvolvedor de Software**
+🚀 **Software Developer**
 
-Me chamo Thales Copola, tenho 22 anos e sou um entusiasta da tecnologia, com forte interesse na resolucao de problemas complexos e no aprendizado continuo. Sou movido pela curiosidade de compreender desafios com profundidade e desenvolver solucoes eficientes, escalaveis e bem estruturadas.
+My name is Thales Copola, I am 22 years old, and I am a technology enthusiast with a strong interest in solving complex problems and continuous learning. I'm driven by curiosity to understand challenges and build efficient, scalable, and well-structured solutions. I value teamwork and knowledge sharing, believing that collaborative environments drive professional growth and lead to more robust and innovative solutions.
 
-Atuo no desenvolvimento e manutencao de solucoes tecnologicas, com experiencia em Python, React, QML, C++, Node.js e Docker entre outros, sempre aplicando boas praticas de desenvolvimento, versionamento de codigo, colaboracao em equipe e resolucao de problemas reais de engenharia de software.
+## What I do
 
-Valorizo o trabalho em equipe e a troca de conhecimento, acreditando que ambientes colaborativos impulsionam o crescimento profissional e a criacao de solucoes mais robustas e inovadoras.
+I work as a Software Development Intern at Metta Innovations, contributing to the development and maintenance of technology solutions. I have experience with Python, React, QML, C++, Node.js, and Docker, applying development best practices, version control, team collaboration, and real-world problem solving.
 
-
-
-##  Tech
-
-<img
-  align="left"
-  alt="html"
-  title="html"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img
-  align="left"
-  alt="css"
-  title="css"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  />
-<img
-  align="left"
-  alt="JAVASCRIPT"
-  title="JAVASCRIPT"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img
-  align="left"
-  alt="typescript"
-  title="typescript"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  />
-<img
-  align="left"
-  alt="react"
-  title="react"
-  width="30px"
-  style="padding-right:10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img
-  align="left"
-  alt="python"
-  title="python"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img
-  align="left"
-  alt="docker"
-  title="docker"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img
-  align="left"
-  alt="cplusplus"
-  title="cplusplus"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img
-  align="left"
-  alt="nextjs"
-  title="nextjs"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img
-  align="left"
-  alt="linux"
-  title="linux"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img
-  align="left"
-  alt="nodejs"
-  title="nodejs"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<img
-  align="left"
-  alt="mysql"
-  title="mysql"
-  width="30px"
-  style="padding-right:10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img
-  align="left"
-  alt="postgresql"
-  title="postgresql"
-  width="30px"
-  style="padding-right:10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
-
-<br clear="left"/>
-
-##  Stats
+## Tech
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesCopola&layout=compact&theme=tokyonight" />
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
+<p align="left">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+<p align="left">
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
+## Stats
+
+<p align="left">
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesCopola&layout=compact&theme=tokyonight" />
+</p>
