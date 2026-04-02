@@ -31,9 +31,3 @@ I work as a Software Development Intern at Metta Innovations, contributing to th
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-## Stats
-
-<p align="left">
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesCopola&layout=compact&theme=tokyonight" />
-</p>
