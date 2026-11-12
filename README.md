@@ -20,7 +20,7 @@ Software development intern at **Metta Innovations** working on computer vision 
 
 - **Applied AI:** machine learning models for real problems, from computer vision to data analysis.
 - **Algorithms and data structures:** C++ with the University of Illinois (Coursera).
-- **Application development:** C#, TypeScript, React and Node.js.
+- **Application development:** C++, Python, TypeScript, React and Node.js.
 - **Tooling:** Docker, Git and Linux.
 
 ### Featured project
