@@ -18,11 +18,10 @@ Software development intern at **Metta Innovations** working on computer vision 
 
 ### Focus Areas
 
-- **Applied AI and Computer Vision:** using machine learning models to solve practical problems like detecting and counting people in video.
-- **Algorithms and data structures:** C++ coursework with the University of Illinois (Coursera) on ordered, unordered and object-oriented data structures.
-- **Analysis and problem solving:** breaking a problem down before coding and analyzing the results, like the count-per-frame chart in People-Detection.
-- **Software development:** C#, TypeScript, React and Node.js, with Docker, Git and Linux in the workflow.
-### Focus Areas
+- **Computer Vision:** AI models for detection, counting and result analysis with YOLOv8 and OpenCV.
+- **Algorithms and data structures:** C++ with the University of Illinois (Coursera).
+- **Application development:** C#, TypeScript, React and Node.js.
+- **Tooling:** Docker, Git and Linux.
 
 ### Featured project
 
