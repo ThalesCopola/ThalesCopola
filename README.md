@@ -4,7 +4,7 @@
 
 **Software Development Intern · Computer Vision & AI**
 
-C++ · Python · C# · JavaScript · React
+C++ · Python · JavaScript · React
 
 [LinkedIn](https://www.linkedin.com/in/thalescopola) · [Email](mailto:thalespaivacopola@gmail.com)
 
